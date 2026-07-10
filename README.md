@@ -4,6 +4,12 @@
 ## What is this?
 This is a simple USB hub, built using the Macondo tutorial. I put my own spin on things, using a SL2.1A and an external crystal, rather than relying on the internal crystal. This makes the PCB more reliable. Additionally, I wired capacitors in series rather than a single capacitor, minimizing the noise of the traces.
 
+<p align="center">
+  <img src="https://github.com/oSnwy/Frostbyte-USB-hub/blob/main/Images/Case%20Halves%20with%20PCB.png" width="1000"></p>
+</p> 
+
+| <img src="https://github.com/oSnwy/Frostbyte-USB-hub/blob/main/Images/Case%20Halves.png" width="500"> | <img src="https://github.com/oSnwy/Frostbyte-USB-hub/blob/main/Images/Full%20Case%20Image.png" width="500"> |
+
 ### FEATURES:
 - 1 Upstream USB-C port
 - 2 Downstream USB-C ports
