@@ -9,15 +9,25 @@ This is a simple USB hub, built using the Macondo tutorial. I put my own spin on
 - 2 Downstream USB-C ports
 - 2 Downstream USB-A ports
 
-RESOURCES USED: 
+## What if I want this?
+If you want this exact USB hub, just download the [frostbyte-USB-Hub.zip](Gerber Files/frostbyte-USB-Hub.zip) from the Gerber Files folder, as well as the [bom.csv](JLCPCB files/bom.csv) and [positions.csv](JLCPCB files/positions.csv) from the JLCPCB files folder. Simply upload the files to [JCLPCB's Order Now](https://cart.jlcpcb.com/quote?spm=Jlcpcb.Homepage.1006&spm=Jlcpcb.Homepage.1006), and add these parts below to each footprint:
+<p align="center">
+  <img src="https://cdn.hackclub.com/019f4ce2-f427-7f11-b544-e7c3b1dbc62e/image.png" width="1000"></p>
+</p> 
+After that, all you need to do it add it to cart!
+
+If you'd like to make your own, all the resources I used are linked below! These are some helpful links that can get you started.
+
+
+### RESOURCES USED: 
 | Use | Website Link |
 | - | - |
+| Macondo Tutorial | https://macondo.hackclub.com/docs/usb-hub |
 | Crystal Example | https://github.com/xunker/simple_sl2.1a_usb_hub |
 | Crystal Example 2 | https://oshwlab.com/oshwlab/USB-concentrator-Based-on-SL2.1A |
 | Crystal Example 3 | https://github.com/Hugoyhu/SL2.1A-Type-C-Hub |
 | Data Sheet | https://www.lcsc.com/datasheet/C6798314.pdf?spm=wm.sxq.inf.ggs___wm.fly.bg.1.xh&lcsc_vid=EQVWVVVTFAVWAwUDQVkNBFdSRQBZBFJeR1UIBFYHTgUxVlNeRFdcUFFURlRdXjsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRVdWU1BVRE8GEwkK |
 | Footprint and Symbol Download | https://www.snapeda.com/parts/SL2.1A/CoreChips%20ShenZhen%20CO.,Ltd/view-part/?company=Maple&amp;welcome=home |
-
 
 ## BOM
 | PART | QTY |
