@@ -1,0 +1,11 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"C1, C10, C11, C13, C15, C17, C2",0603,7,0.1uF,
+"C12, C14, C16, C18, C9",0805,5,10uF,
+"C3, C4, C5",0805,3,4.7uF,
+"J1, J2, J5",USB_C_Receptacle_HRO_TYPE-C-31-M-12,3,USB_C_Receptacle_USB2.0_16P,
+"J3, J4",USB_A_Molex_67643_Horizontal,2,USB_A,
+"R10, R7, R8, R9",0603,4,56k,
+R11,0603,1,4.7R,
+"R5, R6",0603,2,5.1k,
+U1,SOIC-16_3.9x9.9mm_P1.27mm,1,SL2.1A,
+Y1,Crystal_SMD_5032-2Pin_5.0x3.2mm,1,12mHz/20pF/20PPM,
