@@ -10,7 +10,7 @@ This is a simple USB hub, built using the Macondo tutorial. I put my own spin on
 - 2 Downstream USB-A ports
 
 ## What if I want this?
-If you want this exact USB hub, just download the [frostbyte-USB-Hub.zip](Gerber Files/frostbyte-USB-Hub.zip) from the Gerber Files folder, as well as the [bom.csv](JLCPCB files/bom.csv) and [positions.csv](JLCPCB files/positions.csv) from the JLCPCB files folder. Simply upload the files to [JCLPCB's Order Now](https://cart.jlcpcb.com/quote?spm=Jlcpcb.Homepage.1006&spm=Jlcpcb.Homepage.1006), and add these parts below to each footprint:
+If you want this exact USB hub, just download the [frostbyte-USB-Hub.zip](https://github.com/oSnwy/Frostbyte-USB-hub/blob/main/Gerber%20Files/frostbyte-USB-Hub.zip) from the Gerber Files folder, as well as the [bom.csv](https://github.com/oSnwy/Frostbyte-USB-hub/blob/main/JLCPCB%20files/bom.csv) and [positions.csv](https://github.com/oSnwy/Frostbyte-USB-hub/blob/main/JLCPCB%20files/positions.csv) from the JLCPCB files folder. Simply upload the files to [JCLPCB's Order Now](https://cart.jlcpcb.com/quote?spm=Jlcpcb.Homepage.1006&spm=Jlcpcb.Homepage.1006), and add these parts below to each footprint:
 <p align="center">
   <img src="https://cdn.hackclub.com/019f4ce2-f427-7f11-b544-e7c3b1dbc62e/image.png" width="1000"></p>
 </p> 
@@ -30,7 +30,7 @@ If you'd like to make your own, all the resources I used are linked below! These
 | Footprint and Symbol Download | [SnapEDA](https://www.snapeda.com/parts/SL2.1A/CoreChips%20ShenZhen%20CO.,Ltd/view-part/?company=Maple&amp;welcome=home) |
 
 ## TOTAL COST
-Total cost including assembly comes to around $52.94 CAD from JLCPCB. Attempting to order the PCB without assembly is not recommended due to the difficulty of soldering the crystal and capacitors.
+Total cost, including assembly, comes to around $52.94 CAD from JLCPCB. Attempting to order the PCB without assembly is not recommended due to the difficulty of soldering the crystal and capacitors.
 
 ## BOM for PCB
 | PART | QTY |
