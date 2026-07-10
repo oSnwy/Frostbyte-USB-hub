@@ -29,7 +29,10 @@ If you'd like to make your own, all the resources I used are linked below! These
 | Data Sheet | [LCSC](https://www.lcsc.com/datasheet/C6798314.pdf?spm=wm.sxq.inf.ggs___wm.fly.bg.1.xh&lcsc_vid=EQVWVVVTFAVWAwUDQVkNBFdSRQBZBFJeR1UIBFYHTgUxVlNeRFdcUFFURlRdXjsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRVdWU1BVRE8GEwkK) |
 | Footprint and Symbol Download | [SnapEDA](https://www.snapeda.com/parts/SL2.1A/CoreChips%20ShenZhen%20CO.,Ltd/view-part/?company=Maple&amp;welcome=home) |
 
-## BOM
+## TOTAL COST
+Total cost including assembly comes to around $52.94 CAD from JLCPCB. Attempting to order the PCB without assembly is not recommended due to the difficulty of soldering the crystal and capacitors.
+
+## BOM for PCB
 | PART | QTY |
 | - | - |
 | USB-C Receptacle | 3 |
@@ -42,6 +45,7 @@ If you'd like to make your own, all the resources I used are linked below! These
 | 10uF Capacitor | 5 |
 | 4.7uF Capacitor | 3 |
 | 0.1uF Capacitor | 7 |
+
 
 ## JOURNALS
 
