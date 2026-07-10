@@ -112,3 +112,10 @@ Final Price:
 <p align="center">
   <img src="https://cdn.hackclub.com/019f4cec-349a-7e75-bf8f-604507dccd9d/image.png" width="1000"></p>
 </p> 
+
+## JOURNAL #4
+LAPSE LINK: https://lapse.hackclub.com/timelapse/RwhSkVn_50UR
+<p align="center">
+  <img src="https://cdn.hackclub.com/019f4dd3-9121-7433-8df9-a8120ddd782b/Case%20Halves%20with%20PCB.png" width="1000"></p>
+</p> 
+I created the case for my USB hub. This was created in two parts that snap fit together, with M2 screw standoffs for the PCB to attach to. The PCB is sandwiched between the two parts of the case. This case was designed in TinkerCAD.
