@@ -9,7 +9,7 @@ This is a simple USB hub, built using the Macondo tutorial. I put my own spin on
 </p> 
 
 | <img src="https://github.com/oSnwy/Frostbyte-USB-hub/blob/main/Images/Case%20Halves.png" width="500"> | <img src="https://github.com/oSnwy/Frostbyte-USB-hub/blob/main/Images/Full%20Case%20Image.png" width="500"> |
-
+| - | - | 
 ### FEATURES:
 - 1 Upstream USB-C port
 - 2 Downstream USB-C ports
