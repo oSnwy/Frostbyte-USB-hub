@@ -22,7 +22,11 @@ If you want this exact USB hub, just download the [frostbyte-USB-Hub.zip](https:
 </p> 
 After that, all you need to do it add it to cart!
 
-If you'd like to make your own, all the resources I used are linked below! These are some helpful links that can get you started.
+If you'd like to make your own, all the resources I used are linked below! These are some helpful links that can get you started. Alternatively, you can follow my process documented in the journals below!
+
+### PCB AND SCHEMATIC
+| <img src="https://cdn.hackclub.com/019f48f9-906b-7fcd-889f-c5f5a08ec8b6/image.png" width="500"> | <img src="https://cdn.hackclub.com/019f49f3-bf44-7f6a-978a-f6750eb83ac8/image.png" width="500"> |
+| - | - | 
 
 
 ### RESOURCES USED: 
