@@ -38,3 +38,30 @@ I also created a BOM and CPL for the pieces and positions of the PCB. However, t
 <p align="center">
   <img src="https://cdn.hackclub.com/019f49fc-2631-7839-aa46-4ebdf9e29b62/image.png" width="1000"></p>
 </p>
+
+
+## JOURNAL #3
+LAPSE LINK: https://lapse.hackclub.com/timelapse/NV_NpuBsBBrh
+
+UPDATED PCB:
+<p align="center">
+  <img src="https://cdn.hackclub.com/019f4cec-712f-783f-84b2-7799c0a6018f/image.png" width="1000"></p>
+</p> 
+It's done! Despite using the wrong 12 mHz Crystal three times, I finally managed to get the correct footprint and match a correct part onto the board in JLCPCB. I had to edit the PCB a few times and reupload the Gerber files in order for it to work, but it worked out in the end.
+
+Empty PCB:
+<p align="center">
+  <img src="https://cdn.hackclub.com/019f4ce2-cec6-7648-86d2-b2f62d7d18d1/image.png" width="1000"></p>
+</p> 
+BOM parts:
+<p align="center">
+  <img src="https://cdn.hackclub.com/019f4ce2-f427-7f11-b544-e7c3b1dbc62e/image.png" width="1000"></p>
+</p> 
+3d Render:
+<p align="center">
+  <img src="https://cdn.hackclub.com/019f4ce3-c4dd-7c74-806f-ed8ec1874e41/image.png" width="1000"></p>
+</p> 
+Final Price:
+<p align="center">
+  <img src="https://cdn.hackclub.com/019f4cec-349a-7e75-bf8f-604507dccd9d/image.png" width="1000"></p>
+</p> 
