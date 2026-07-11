@@ -22,7 +22,7 @@ The case is designed to press fit into each other, using friction to keep the ha
 ONSHAPE LINK: [OnShape](https://cad.onshape.com/documents/c9b467c6ac72e99f79eebd34/w/909402ed37444c79486434d0/e/d14026541bd022353ba53d64?renderMode=0&uiState=6a5196109ed6ccb7c50ef2e0)
 
 ## What if I want this?
-If you want this exact USB hub, just download the [frostbyte-USB-Hub.zip](https://github.com/oSnwy/Frostbyte-USB-hub/blob/main/Gerber%20Files/frostbyte-USB-Hub.zip) from the Gerber Files folder, as well as the [bom.csv](https://github.com/oSnwy/Frostbyte-USB-hub/blob/main/JLCPCB%20files/bom.csv) and [positions.csv](https://github.com/oSnwy/Frostbyte-USB-hub/blob/main/JLCPCB%20files/positions.csv) from the JLCPCB files folder. Simply upload the files to [JCLPCB's Order Now](https://cart.jlcpcb.com/quote?spm=Jlcpcb.Homepage.1006&spm=Jlcpcb.Homepage.1006), and add these parts below to each footprint:
+If you want this exact USB hub, just download the [frostbyte-USB-Hub.zip](https://github.com/oSnwy/Frostbyte-USB-hub/blob/main/Gerber%20Files/frostbyte-USB-Hub.zip) from the Gerber Files folder, as well as the [bom.csv](https://github.com/oSnwy/Frostbyte-USB-hub/blob/main/JLCPCB%20files/bom.csv) and [positions.csv](https://github.com/oSnwy/Frostbyte-USB-hub/blob/main/JLCPCB%20files/positions.csv) from the JLCPCB files folder. Simply upload the files to [JCLPCB's Order Now](https://cart.jlcpcb.com/quote?spm=Jlcpcb.Homepage.1006&spm=Jlcpcb.Homepage.1006), and add these parts below to each footprint or use the links in the BOM below:
 <p align="center">
   <img src="https://cdn.hackclub.com/019f4ce2-f427-7f11-b544-e7c3b1dbc62e/image.png" width="1000"></p>
 </p> 
@@ -49,18 +49,18 @@ If you'd like to make your own, all the resources I used are linked below! These
 Total cost, including assembly, comes to around $52.94 CAD from JLCPCB. Attempting to order the PCB without assembly is not recommended due to the difficulty of soldering the crystal and capacitors.
 
 ## BOM for PCB
-| PART | QTY |
+| PART | QTY | LINK |
 | - | - |
-| USB-C Receptacle | 3 |
-| USB-A Receptacle | 2 |
-| 12mHz Crystal | 1 |
-| SL2.1A | 1 |
-| 4.7R Resistor | 1 |
-| 5.1K Resistor | 1 |
-| 56K Resistor | 1 | 
-| 10uF Capacitor | 5 |
-| 4.7uF Capacitor | 3 |
-| 0.1uF Capacitor | 7 |
+| USB-C Receptacle | 3 | [LINK](https://jlcpcb.com/partdetail/Korean_HropartsElec-TYPE_C_31_M12/C165948) |
+| USB-A Receptacle | 2 | [LINK](https://jlcpcb.com/partdetail/MOLEX-676432911/C293351) |
+| 12mHz Crystal | 1 | [LINK](https://jlcpcb.com/partdetail/SST-S503212M20PF20PPMB/C7426819) |
+| SL2.1A | 1 | [LINK](https://jlcpcb.com/partdetail/CoreChips-SL21A/C6798314) |
+| 4.7R Resistor | 1 | [LINK](https://jlcpcb.com/parts/componentSearch?searchTxt=c23164) |
+| 5.1K Resistor | 1 | [LINK](https://jlcpcb.com/parts/componentSearch?searchTxt=c23186) |
+| 56K Resistor | 1 |  [LINK](https://jlcpcb.com/partdetail/23933-0603WAF5602T5E/C23206) |
+| 10uF Capacitor | 5 | [LINK](https://jlcpcb.com/partdetail/16532-CL21A106KAYNNNE/C15850) |
+| 4.7uF Capacitor | 3 | [LINK](https://jlcpcb.com/partdetail/2131-CL21A475KAQNNNE/C1779) |
+| 0.1uF Capacitor | 7 | [LINK](https://jlcpcb.com/parts/componentSearch?searchTxt=c14663) |
 
 
 ## JOURNALS
