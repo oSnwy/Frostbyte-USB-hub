@@ -2,7 +2,7 @@
 
 
 ## What is this?
-This is a simple USB hub, built using the Macondo tutorial. I put my own spin on things, using an SL2.1A and an external crystal, rather than relying on the internal crystal, making the PCB more reliable. Additionally, I wired capacitors in series rather than a single capacitor, minimizing the noise of the traces. I also designed a custom case to press fit against the PCB.
+This is a simple USB hub, built using the Macondo tutorial. I put my own spin on things, using an SL2.1A and an external crystal, rather than relying on the internal crystal, making the PCB more reliable. Additionally, I wired capacitors in series rather than a single capacitor, minimizing the noise of the traces. I also designed a custom case to house the PCB.
 
 <p align="center">
   <img src="https://github.com/oSnwy/Frostbyte-USB-hub/blob/main/Images/two%20halves%20w%20PCB.png" width="500"></p>
@@ -10,10 +10,17 @@ This is a simple USB hub, built using the Macondo tutorial. I put my own spin on
 
 | <img src="https://github.com/oSnwy/Frostbyte-USB-hub/blob/main/Images/two%20halves.png" width="500"> | <img src="https://github.com/oSnwy/Frostbyte-USB-hub/blob/main/Images/full%20set%20w%20PCB.png" width="500"> |
 | - | - | 
+
+
 ### FEATURES:
 - 1 Upstream USB-C port
 - 2 Downstream USB-C ports
 - 2 Downstream USB-A ports
+- External 12mHz crystal for timing (More reliable than internal crystal from tutorial)
+- Parallel 0.1uF and 10uF capacitors to further reduce noise, better than the tutorials singular 1uF capacitors
+
+The case is designed to press fit into each other, using friction to keep the halves together. The PCB screwes into the bottom housing of the case through M2 screws.
+ONSHAPE LINK: [OnShape](https://cad.onshape.com/documents/c9b467c6ac72e99f79eebd34/w/909402ed37444c79486434d0/e/d14026541bd022353ba53d64?renderMode=0&uiState=6a5196109ed6ccb7c50ef2e0)
 
 ## What if I want this?
 If you want this exact USB hub, just download the [frostbyte-USB-Hub.zip](https://github.com/oSnwy/Frostbyte-USB-hub/blob/main/Gerber%20Files/frostbyte-USB-Hub.zip) from the Gerber Files folder, as well as the [bom.csv](https://github.com/oSnwy/Frostbyte-USB-hub/blob/main/JLCPCB%20files/bom.csv) and [positions.csv](https://github.com/oSnwy/Frostbyte-USB-hub/blob/main/JLCPCB%20files/positions.csv) from the JLCPCB files folder. Simply upload the files to [JCLPCB's Order Now](https://cart.jlcpcb.com/quote?spm=Jlcpcb.Homepage.1006&spm=Jlcpcb.Homepage.1006), and add these parts below to each footprint:
