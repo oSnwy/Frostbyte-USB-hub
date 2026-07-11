@@ -5,10 +5,10 @@
 This is a simple USB hub, built using the Macondo tutorial. I put my own spin on things, using a SL2.1A and an external crystal, rather than relying on the internal crystal. This makes the PCB more reliable. Additionally, I wired capacitors in series rather than a single capacitor, minimizing the noise of the traces.
 
 <p align="center">
-  <img src="https://github.com/oSnwy/Frostbyte-USB-hub/blob/main/Images/Case%20Halves%20with%20PCB.png" width="1000"></p>
+  <img src="https://github.com/oSnwy/Frostbyte-USB-hub/blob/main/Images/two%halves%w%PCB.png" width="1000"></p>
 </p> 
 
-| <img src="https://github.com/oSnwy/Frostbyte-USB-hub/blob/main/Images/Case%20Halves.png" width="500"> | <img src="https://github.com/oSnwy/Frostbyte-USB-hub/blob/main/Images/Full%20Case%20Image.png" width="500"> |
+| <img src="https://github.com/oSnwy/Frostbyte-USB-hub/blob/main/Images/two%halves.png" width="500"> | <img src="https://github.com/oSnwy/Frostbyte-USB-hub/blob/main/Images/Ftwo%halves%w%PCB.png" width="500"> |
 | - | - | 
 ### FEATURES:
 - 1 Upstream USB-C port
@@ -123,3 +123,13 @@ LAPSE LINK: https://lapse.hackclub.com/timelapse/RwhSkVn_50UR
   <img src="https://cdn.hackclub.com/019f4dd3-9121-7433-8df9-a8120ddd782b/Case%20Halves%20with%20PCB.png" width="1000"></p>
 </p> 
 I created the case for my USB hub. This was created in two parts that snap fit together, with M2 screw standoffs for the PCB to attach to. The PCB is sandwiched between the two parts of the case. This case was designed in TinkerCAD.
+
+## JOURNAL #5
+LAPSE LINK: https://lapse.hackclub.com/timelapse/sdaK7IJP7WCH
+<p align="center">
+  <img src="https://cdn.hackclub.com/019f4e94-6cd3-704e-b5a5-1db0c7831b94/two%20halves%20w%20PCB.png" width="1000"></p>
+</p>
+<p align="center">
+  <img src="https://cdn.hackclub.com/019f4e99-56db-77dc-9de4-df1c46be5a46/two%20halves.png" width="1000"></p>
+</p>
+After checking the shipping requirements, it turns out that TinkerCad is not allowed because it doesn't provide the required source files. However, the time spent on TinkerCad was not wasted, as it became an extremely useful reference for 3d modelling on OnShape, as I could use the TinkerCad model for the dimensions, which ended up saving a lot of time. I probably should've read the shipping requirements, but I think using Tinkercad first still saved a little time.
