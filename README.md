@@ -2,13 +2,13 @@
 
 
 ## What is this?
-This is a simple USB hub, built using the Macondo tutorial. I put my own spin on things, using a SL2.1A and an external crystal, rather than relying on the internal crystal. This makes the PCB more reliable. Additionally, I wired capacitors in series rather than a single capacitor, minimizing the noise of the traces.
+This is a simple USB hub, built using the Macondo tutorial. I put my own spin on things, using an SL2.1A and an external crystal, rather than relying on the internal crystal, making the PCB more reliable. Additionally, I wired capacitors in series rather than a single capacitor, minimizing the noise of the traces. I also designed a custom case to press fit against the PCB.
 
 <p align="center">
-  <img src="https://github.com/oSnwy/Frostbyte-USB-hub/blob/main/Images/two%halves%w%PCB.png" width="1000"></p>
+  <img src="https://github.com/oSnwy/Frostbyte-USB-hub/blob/main/Images/two%20halves%20w%20PCB.png" width="500"></p>
 </p> 
 
-| <img src="https://github.com/oSnwy/Frostbyte-USB-hub/blob/main/Images/two%halves.png" width="500"> | <img src="https://github.com/oSnwy/Frostbyte-USB-hub/blob/main/Images/Ftwo%halves%w%PCB.png" width="500"> |
+| <img src="https://github.com/oSnwy/Frostbyte-USB-hub/blob/main/Images/two%20halves.png" width="500"> | <img src="https://github.com/oSnwy/Frostbyte-USB-hub/blob/main/Images/full%20set%20w%20PCB.png" width="500"> |
 | - | - | 
 ### FEATURES:
 - 1 Upstream USB-C port
@@ -20,7 +20,7 @@ If you want this exact USB hub, just download the [frostbyte-USB-Hub.zip](https:
 <p align="center">
   <img src="https://cdn.hackclub.com/019f4ce2-f427-7f11-b544-e7c3b1dbc62e/image.png" width="1000"></p>
 </p> 
-After that, all you need to do it add it to cart!
+After that, all you need to do is add it to the cart!
 
 If you'd like to make your own, all the resources I used are linked below! These are some helpful links that can get you started. Alternatively, you can follow my process documented in the journals below!
 
