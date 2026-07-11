@@ -18,6 +18,7 @@ This is a simple USB hub, built using the Macondo tutorial. I put my own spin on
 - Parallel 0.1uF and 10uF capacitors to further reduce noise, better than the tutorials singular 1uF capacitors
 
 The case is designed to press fit into each other, using friction to keep the halves together. The PCB screwes into the bottom housing of the case through M2 screws.
+
 ONSHAPE LINK: [OnShape](https://cad.onshape.com/documents/c9b467c6ac72e99f79eebd34/w/909402ed37444c79486434d0/e/d14026541bd022353ba53d64?renderMode=0&uiState=6a5196109ed6ccb7c50ef2e0)
 
 ## What if I want this?
