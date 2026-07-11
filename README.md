@@ -46,7 +46,7 @@ If you'd like to make your own, all the resources I used are linked below! These
 | Footprint and Symbol Download | [SnapEDA](https://www.snapeda.com/parts/SL2.1A/CoreChips%20ShenZhen%20CO.,Ltd/view-part/?company=Maple&amp;welcome=home) |
 
 ## TOTAL COST
-Total cost, including assembly, comes to around $52.94 CAD from JLCPCB. Attempting to order the PCB without assembly is not recommended due to the difficulty of soldering the crystal and capacitors.
+Total cost, including assembly, comes to around $52.94 CAD from JLCPCB, or $37.32 USD. Attempting to order the PCB without assembly is not recommended due to the difficulty of soldering the crystal and capacitors.
 
 ## BOM for PCB
 | PART | QTY | LINK |
