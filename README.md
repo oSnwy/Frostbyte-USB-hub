@@ -50,7 +50,7 @@ Total cost, including assembly, comes to around $52.94 CAD from JLCPCB, or $37.3
 
 ## BOM for PCB
 | PART | QTY | LINK |
-| - | - |
+| - | - | - |
 | USB-C Receptacle | 3 | [LINK](https://jlcpcb.com/partdetail/Korean_HropartsElec-TYPE_C_31_M12/C165948) |
 | USB-A Receptacle | 2 | [LINK](https://jlcpcb.com/partdetail/MOLEX-676432911/C293351) |
 | 12mHz Crystal | 1 | [LINK](https://jlcpcb.com/partdetail/SST-S503212M20PF20PPMB/C7426819) |
