@@ -12,6 +12,13 @@ The name "Frostbyte" started as a play on byte and my username, and how winter t
 - Make the case feel like a finished product, not just a project box
 - Keep the PCB easy to assemble and debug
 
+<p align="center">
+  <img src="https://github.com/oSnwy/Frostbyte-USB-hub/blob/main/Images/two%20halves%20w%20PCB.png" width="500"></p>
+</p> 
+
+| <img src="https://github.com/oSnwy/Frostbyte-USB-hub/blob/main/Images/two%20halves.png" width="333"> | <img src="https://github.com/oSnwy/Frostbyte-USB-hub/blob/main/Images/full%20set%20wo%20PCB.png" width="333"> | <img src="https://github.com/oSnwy/Frostbyte-USB-hub/blob/main/Images/full%20set%20w%20PCB.png" width="333"> |
+| - | - | - |
+
 ## What is this?
 
 Frostbyte was my introductory project into more complicated PCB design. I wanted to make a USB hub that felt more like a finished desk accessory than a bare PCB, while also reducing cable clutter on my desk. The goal was to make one compact dock where I could plug in my everyday accessories instead of having wires spread everywhere.
@@ -60,13 +67,6 @@ If I made another version, I would increase the number of ports, as the two USB-
 
 While making Frostbyte, I learned more about USB 2.0 routing, differential pairs, decoupling capacitors, crystal placement, and how much the mechanical design affects the final feel of a hardware project. 
 I also improved my skills in different software/tools such as KiCad schematics, PCBs, as well as CAD softwares such as FreeCad and TinkerCad although the final design was done in [OnShape](https://cad.onshape.com/documents/c9b467c6ac72e99f79eebd34/w/909402ed37444c79486434d0/e/d14026541bd022353ba53d64?renderMode=0&uiState=6a5196109ed6ccb7c50ef2e0).
-
-<p align="center">
-  <img src="https://github.com/oSnwy/Frostbyte-USB-hub/blob/main/Images/two%20halves%20w%20PCB.png" width="500"></p>
-</p> 
-
-| <img src="https://github.com/oSnwy/Frostbyte-USB-hub/blob/main/Images/two%20halves.png" width="333"> | <img src="https://github.com/oSnwy/Frostbyte-USB-hub/blob/main/Images/full%20set%20wo%20PCB.png" width="333"> | <img src="https://github.com/oSnwy/Frostbyte-USB-hub/blob/main/Images/full%20set%20w%20PCB.png" width="333"> |
-| - | - | - |
 
 
 ## Assembly Notes
@@ -205,3 +205,9 @@ LAPSE LINK: https://lapse.hackclub.com/timelapse/sdaK7IJP7WCH
   <img src="https://cdn.hackclub.com/019f4e99-56db-77dc-9de4-df1c46be5a46/two%20halves.png" width="1000"></p>
 </p>
 After checking the shipping requirements, it turns out that TinkerCad is not allowed because it doesn't provide the required source files. However, the time spent on TinkerCad was not wasted, as it became an extremely useful reference for 3d modelling on OnShape, as I could use the TinkerCad model for the dimensions, which ended up saving a lot of time. I probably should've read the shipping requirements, but I think using Tinkercad first still saved a little time.
+
+## Journal #6
+<p align="center">
+  <img src="https://cdn.hackclub.com/019f82aa-4f68-7f5a-8b89-e1ca7f37fdad/image.png" width="1000"></p>
+</p>
+I updated the README for GitHub, adding more unique aspects to the design process and build choices, as well as more information specific to the project. I updated the features list, added design goals, added more to the what is this?, added engineering choices and challenges, and listed what I changed from the tutorial. I also added notes and limitations, what I would change if I did it again, as well as the things I learned.
