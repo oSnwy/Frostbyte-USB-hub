@@ -59,8 +59,9 @@ One of the hardest parts was balancing the electronics and the enclosure. The US
 
 This is a USB 2.0 hub, not a USB 3.0 hub. It is designed for normal peripherals like keyboards, mice, flash drives, and small USB accessories, not high-power charging. DO NOT USE for alternate purposes (I'm not responsible if you blow up your laptop!!).
 <p align="center">
-<img src="https://cdn.hackclub.com/019f48f9-906b-7fcd-889f-c5f5a08ec8b6/image.png" width="500">
+  <img src="https://cdn.hackclub.com/019f48f9-906b-7fcd-889f-c5f5a08ec8b6/image.png" width="500">
 </p>
+
 ### Future Improvements
 
 If I made another version, I would increase the number of ports, as the two USB-A and USB-C ports may not be enough for future accessories. Additionally, I would add a power delivery port, allowing high-speed charging through the USB hub for other applicances. Lastly, I would add a couple of features such as a rotary encoder or macro keys to the hub in order for it to be more than just a USB hub, which may need the addition of a microcontroller.
